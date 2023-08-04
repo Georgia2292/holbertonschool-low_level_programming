@@ -2,9 +2,13 @@
 
 /**
  * main - Prints a to z
- * Return zero
+ *
+ *
+ * Return: zero
  */
+
 int main(void)
+
 {
 	char n;
 
